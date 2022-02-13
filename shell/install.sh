@@ -15,7 +15,3 @@ cat <<END > ~/.aws/config
 region=${region}
 END
 
-read -p "Enter your initials: " initials
-
-git clone https://github.com/jahoog/andy-pizza-shop.git andy-pizza-shop-$initials
-
