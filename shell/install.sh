@@ -7,6 +7,9 @@ pip install --user --upgrade awscli
 # Install the AWS Amplify CLI
 npm install -g @aws-amplify/cli
 
+# install npm packages
+npm i
+
 # Set Region Variable
 region=$(curl http://169.254.169.254/latest/dynamic/instance-identity/document|grep region|awk -F\" '{print $4}')
 # create default config file
