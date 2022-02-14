@@ -1,5 +1,3 @@
-cd ~environment/andy-pizza-shop-*
-
 # Expand hard drive
 sh shell/resize.sh 30
 
