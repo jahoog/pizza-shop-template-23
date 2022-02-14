@@ -1,5 +1,7 @@
+cd ~environment/andy-pizza-shop-*
+
 # Expand hard drive
-sh resize.sh 30
+sh shell/resize.sh 30
 
 # Update the AWS CLI
 pip install --user --upgrade awscli
