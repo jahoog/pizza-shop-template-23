@@ -5,6 +5,7 @@
   "dependencies": {
     "@aws-amplify/datastore": "^4.0.12",
     "@aws-amplify/ui-react": "^4.3.6",
+    "@aws-amplify/ui-react-v1": "npm:@aws-amplify/ui-react@1.2.9",    
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
